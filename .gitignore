@@ -1,0 +1,12 @@
+# Local preview scratch
+preview.html
+try.html
+
+# Source photo and its cutout stay off the public repo. Regenerate with:
+#   python scripts/prep_photo.py <your-photo.jpg> data/portrait-prepped.png
+#   python scripts/make_ascii_svg.py data/portrait-prepped.png assets/bhanu-ascii.svg
+data/portrait-prepped.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc

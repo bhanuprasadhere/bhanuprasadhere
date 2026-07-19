@@ -1,18 +1,82 @@
-# 💫 About Me:
-I’m a final-year Integrated M.Tech (CSE) student at VIT (2021–2026).<br><br>Currently working on:<br><br>Backend systems using Spring Boot & .NET<br><br>Automation pipelines for document validation<br><br>Natural Language → SQL systems using offline LLMs<br><br>Cloud deployment (AWS & Azure)<br><br>I focus on building systems that:<br><br>Automate manual workflows<br><br>Reduce operational costs<br><br>Scale cleanly in production
+<div align="center">
 
+<img src="assets/contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuprasadhere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanuprasas007@gmail.com) 
+<br><br>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<table>
+<tr>
+<td width="400" valign="top"><img src="assets/bhanu-ascii.svg" width="400" alt="ASCII portrait" /></td>
+<td width="460" valign="top"><img src="assets/info-card.svg" width="460" alt="Profile card" /></td>
+</tr>
+</table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhanuprasadhere&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhanuprasadhere&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprasadhere&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
+### What I actually shipped
+
+**Cut insurance document validation from 30 minutes to 2 minutes per document.** Power Automate
+and AI Builder for extraction, .NET rule validation behind it. That is the number I lead with.
+
+Currently a Software Development Intern at **AhaApps Infotech** (Hyderabad, onsite), working full
+stack on an enterprise 360-degree employee evaluation platform:
+
+- React 18 survey, reporting and admin interfaces on ASP.NET Core (.NET 10) REST APIs, deployed
+  across dev, test and prod
+- A weighted scoring engine — 40/40/20 standard, 50/50 exception fallback — with proportional
+  weight redistribution when a category has no responses
+- A deterministic anonymization service that still preserves self-evaluation context
+- An async email-queue worker on .NET `IHostedService` with retry logic and HTML templating
+- A headless-Chromium PDF report generator (PuppeteerSharp) reusing a singleton browser instance
+- SQL Server composite indexes plus single-pass score aggregation for reporting performance
+- Multi-environment CI/CD on Azure DevOps with branch-level config validation
+
+Concurrently a **Core Java Developer Intern at Virtusa** (remote, held alongside the AhaApps
+internship) — Spring Boot backend services for a logistics system: role-based auth,
+inventory and delivery workflows, MySQL schema design, React frontend integration. I earned
+that internship by co-developing a traffic-violation reporting platform at the Virtusa Hackathon.
+
+<br>
+
+### Things I built
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Natural Language → SQL on offline LLMs** | Lets non-technical users query relational databases in plain English. Schema-aware prompting, query validation before anything touches the database, fully offline models. | Python · LangChain · local LLMs · SQL |
+| **Federated Learning in Healthcare Informatics** | Privacy-preserving training across decentralized healthcare sources — the model travels, the data never does. | Flower · TensorFlow |
+| **Backend Inventory & Delivery System** | Role-based inventory and delivery tracking with REST APIs for stock updates, delivery status and reporting. | Spring Boot · Spring Security · MySQL |
+| **Distracted Driver Detection** | CNN classifier over driver-cabin imagery with alerting on detection. | VGG16 · OpenCV · Flask |
+
+<br>
+
+### Stack
+
+**Backend** — ASP.NET Core (.NET 10) · Spring Boot · REST API design · async workers<br>
+**Languages** — C# · Java · Python · SQL<br>
+**Frontend** — React 18 · HTML · CSS<br>
+**Data** — SQL Server · MySQL · MongoDB<br>
+**Cloud & DevOps** — Azure App Services · Azure DevOps · AWS EC2/S3 · Docker · GitHub Actions<br>
+**AI & Automation** — LangChain · offline LLMs · prompt engineering · Power Platform · AI Builder
+
+Certified: **Microsoft Azure AI Fundamentals (AI-900)**, **Oracle Cloud Infrastructure 2024 AI
+Foundations Associate**.
+
+<br>
+
+### Reach me
+
+**[bhanuprasadhere.github.io](https://bhanuprasadhere.github.io)** ·
+**[LinkedIn](https://linkedin.com/in/bhanuprasadhere)** ·
+**[bhanuprasas007@gmail.com](mailto:bhanuprasas007@gmail.com)**
+
+Integrated M.Tech in Computer Science, VIT — graduating 2026. Open to backend, full stack and
+AI engineering roles in Hyderabad and Bangalore.
+
+<br>
+
+<sub>Every graphic above is a self-contained SVG generated from
+<a href="scripts/">scripts/</a> and committed to this repo — no third-party widget services, so
+nothing here rate-limits or 404s. The heatmap refreshes daily via
+<a href=".github/workflows/update-profile-art.yml">GitHub Actions</a>.</sub>
