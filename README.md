@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year Integrated M.Tech (CSE) student at VIT (2021–2026).<br><br>Currently working on:<br><br>Backend systems using Spring Boot & .NET<br><br>Automation pipelines for document validation<br><br>Natural Language → SQL systems using offline LLMs<br><br>Cloud deployment (AWS & Azure)<br><br>I focus on building systems that:<br><br>Automate manual workflows<br><br>Reduce operational costs<br><br>Scale cleanly in production
+I’m a recent Integrated M.Tech (CSE) graduate at VIT (2021–2026).<br><br>Currently working on:<br><br>Backend systems using Spring Boot & .NET<br><br>Automation pipelines for document validation<br><br>Natural Language → SQL systems using offline LLMs<br><br>Cloud deployment (AWS & Azure)<br><br>I focus on building systems that:<br><br>Automate manual workflows<br><br>Reduce operational costs<br><br>Scale cleanly in production
 
 
 ## 🌐 Socials:
